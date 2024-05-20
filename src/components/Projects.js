@@ -6,8 +6,8 @@ import 'animate.css';
 export const Projects = () => {
 
   const specs = [
-    { key: "Manufacturer", value: "APPLE" },
-    { key: "Series", value: "iPhone 14 Pro Max" },
+    { key: "Manufacturer", value: "TechTrek" },
+    { key: "Series", value: "TechTrek X" },
     { key: "Product Type", value: "Cellular phone" },
     { key: "Display Size", value: '6.70"' },
     { key: "Screen Resolution", value: "2796x1290" },
@@ -21,7 +21,7 @@ export const Projects = () => {
   return (
     <section className="project" id="projects">
       <Container>
-        <h1 className="text-center my-4">Features of the iPhone 14 ProMax</h1>
+        <h1 className="text-center my-4">TechTrek X</h1>
             <Table striped bordered hover variant="dark">
               <tbody>
                 {specs.map((spec, index) => (

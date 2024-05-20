@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/TechTrek_X/static/css/main.d659a366.css",
+    "main.js": "/TechTrek_X/static/js/main.8d7350ba.js",
+    "static/js/787.fb771931.chunk.js": "/TechTrek_X/static/js/787.fb771931.chunk.js",
+    "static/media/banner.png": "/TechTrek_X/static/media/banner.9220bff76281a27805d2.png",
+    "static/media/color-sharp.png": "/TechTrek_X/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/color-sharp2.png": "/TechTrek_X/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/image_transparent.png": "/TechTrek_X/static/media/image_transparent.41510ddcd180c5a3d6e5.png",
+    "static/media/CentraNo2-Bold.ttf": "/TechTrek_X/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/TechTrek_X/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/TechTrek_X/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/footer-bg.png": "/TechTrek_X/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/revicons.eot": "/TechTrek_X/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/TechTrek_X/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/TechTrek_X/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/logo.svg": "/TechTrek_X/static/media/logo.537cc29ff20251674bd35cc9aace255f.svg",
+    "static/media/nav-icon3.svg": "/TechTrek_X/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "index.html": "/TechTrek_X/index.html",
+    "static/media/nav-icon1.svg": "/TechTrek_X/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "static/media/nav-icon2.svg": "/TechTrek_X/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
+    "main.d659a366.css.map": "/TechTrek_X/static/css/main.d659a366.css.map",
+    "main.8d7350ba.js.map": "/TechTrek_X/static/js/main.8d7350ba.js.map",
+    "787.fb771931.chunk.js.map": "/TechTrek_X/static/js/787.fb771931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d659a366.css",
+    "static/js/main.8d7350ba.js"
+  ]
+}
